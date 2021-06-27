@@ -18,13 +18,11 @@ Here are some ideas to get you started:
 -->
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/RudneyEduardo/RudneyEduardo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudneyEduardo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/RudneyEduardo/RudneyEduardo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RudneyEduardo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-
+<div>
+  <a href="https://github.com/ClaudioSiqueira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RudneyEduardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudneyEduardo&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
 <!-- links to social media icons -->
 
