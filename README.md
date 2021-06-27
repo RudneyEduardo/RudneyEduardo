@@ -1,7 +1,7 @@
 # Hello, folks! 👋
 
 
-My name is Rudney Vieira and I'm a Intern. I'm from Brazil, living in Guarulhos and currently working at Teros. You can find me on [![Twitter][1.2]],  or on [![LinkedIn][3.2]].
+My name is Rudney Vieira and I'm a Intern. I'm from Brazil, living in Guarulhos and currently working at Teros. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 <!--
 **RudneyEduardo/RudneyEduardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
