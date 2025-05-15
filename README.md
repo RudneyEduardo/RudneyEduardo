@@ -38,6 +38,5 @@ Here are some ideas to get you started:
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/rudney_eduardo
 [2]: https://github.com/RudneyEduardo
-[3]: https://www.linkedin.com/in/rudney-eduardo-souza-vieira-08a12a1a2
+[3]: https://www.linkedin.com/in/rudney-eduardo-souza-vieira
